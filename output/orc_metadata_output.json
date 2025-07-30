@@ -1,0 +1,281 @@
+[ {
+  "File" : "part-00004-9aa8ec4a-3763-4967-be92-2507c58a6b83-c000.snappy.orc",
+  "Compression" : "SNAPPY",
+  "Column_types" : "struct<store_id:int,store_name:string,latitude:double,longitude:double>",
+  "Number_of_rows" : 163549,
+  "Number_of_stripes" : 1,
+  "Stripes" : [ {
+    "Stripe" : 0,
+    "Row_count" : 163549,
+    "columns" : [ {
+      "column" : "store_id",
+      "nulls" : 0,
+      "value_count" : 163549,
+      "min" : "659720",
+      "max" : "823268"
+    }, {
+      "column" : "store_name",
+      "nulls" : 0,
+      "value_count" : 163549,
+      "min" : null,
+      "max" : null
+    }, {
+      "column" : "latitude",
+      "nulls" : 0,
+      "value_count" : 163549,
+      "min" : "-47.528361",
+      "max" : "73.471559"
+    }, {
+      "column" : "longitude",
+      "nulls" : 0,
+      "value_count" : 163549,
+      "min" : "17.094668",
+      "max" : "138.094051"
+    } ]
+  } ]
+}, {
+  "File" : "part-00006-9aa8ec4a-3763-4967-be92-2507c58a6b83-c000.snappy.orc",
+  "Compression" : "SNAPPY",
+  "Column_types" : "struct<store_id:int,store_name:string,latitude:double,longitude:double>",
+  "Number_of_rows" : 156455,
+  "Number_of_stripes" : 1,
+  "Stripes" : [ {
+    "Stripe" : 0,
+    "Row_count" : 156455,
+    "columns" : [ {
+      "column" : "store_id",
+      "nulls" : 0,
+      "value_count" : 156455,
+      "min" : "986823",
+      "max" : "1143277"
+    }, {
+      "column" : "store_name",
+      "nulls" : 0,
+      "value_count" : 156455,
+      "min" : null,
+      "max" : null
+    }, {
+      "column" : "latitude",
+      "nulls" : 0,
+      "value_count" : 156455,
+      "min" : "-47.528268",
+      "max" : "73.470384"
+    }, {
+      "column" : "longitude",
+      "nulls" : 0,
+      "value_count" : 156455,
+      "min" : "17.095074",
+      "max" : "138.094388"
+    } ]
+  } ]
+}, {
+  "File" : "part-00000-9aa8ec4a-3763-4967-be92-2507c58a6b83-c000.snappy.orc",
+  "Compression" : "SNAPPY",
+  "Column_types" : "struct<store_id:int,store_name:string,latitude:double,longitude:double>",
+  "Number_of_rows" : 169039,
+  "Number_of_stripes" : 1,
+  "Stripes" : [ {
+    "Stripe" : 0,
+    "Row_count" : 169039,
+    "columns" : [ {
+      "column" : "store_id",
+      "nulls" : 0,
+      "value_count" : 169039,
+      "min" : "1",
+      "max" : "169039"
+    }, {
+      "column" : "store_name",
+      "nulls" : 0,
+      "value_count" : 169039,
+      "min" : null,
+      "max" : null
+    }, {
+      "column" : "latitude",
+      "nulls" : 0,
+      "value_count" : 169039,
+      "min" : "-47.528237",
+      "max" : "73.471552"
+    }, {
+      "column" : "longitude",
+      "nulls" : 0,
+      "value_count" : 169039,
+      "min" : "17.094937",
+      "max" : "138.094299"
+    } ]
+  } ]
+}, {
+  "File" : "part-00002-9aa8ec4a-3763-4967-be92-2507c58a6b83-c000.snappy.orc",
+  "Compression" : "SNAPPY",
+  "Column_types" : "struct<store_id:int,store_name:string,latitude:double,longitude:double>",
+  "Number_of_rows" : 163551,
+  "Number_of_stripes" : 1,
+  "Stripes" : [ {
+    "Stripe" : 0,
+    "Row_count" : 163551,
+    "columns" : [ {
+      "column" : "store_id",
+      "nulls" : 0,
+      "value_count" : 163551,
+      "min" : "332613",
+      "max" : "496163"
+    }, {
+      "column" : "store_name",
+      "nulls" : 0,
+      "value_count" : 163551,
+      "min" : null,
+      "max" : null
+    }, {
+      "column" : "latitude",
+      "nulls" : 0,
+      "value_count" : 163551,
+      "min" : "-47.527599",
+      "max" : "73.471258"
+    }, {
+      "column" : "longitude",
+      "nulls" : 0,
+      "value_count" : 163551,
+      "min" : "17.095721",
+      "max" : "138.092785"
+    } ]
+  } ]
+}, {
+  "File" : "part-00007-9aa8ec4a-3763-4967-be92-2507c58a6b83-c000.snappy.orc",
+  "Compression" : "SNAPPY",
+  "Column_types" : "struct<store_id:int,store_name:string,latitude:double,longitude:double>",
+  "Number_of_rows" : 56722,
+  "Number_of_stripes" : 1,
+  "Stripes" : [ {
+    "Stripe" : 0,
+    "Row_count" : 56722,
+    "columns" : [ {
+      "column" : "store_id",
+      "nulls" : 0,
+      "value_count" : 56722,
+      "min" : "1143278",
+      "max" : "1199999"
+    }, {
+      "column" : "store_name",
+      "nulls" : 0,
+      "value_count" : 56722,
+      "min" : null,
+      "max" : null
+    }, {
+      "column" : "latitude",
+      "nulls" : 0,
+      "value_count" : 56722,
+      "min" : "-47.527961",
+      "max" : "73.46675"
+    }, {
+      "column" : "longitude",
+      "nulls" : 0,
+      "value_count" : 56722,
+      "min" : "17.094824",
+      "max" : "138.092557"
+    } ]
+  } ]
+}, {
+  "File" : "part-00005-9aa8ec4a-3763-4967-be92-2507c58a6b83-c000.snappy.orc",
+  "Compression" : "SNAPPY",
+  "Column_types" : "struct<store_id:int,store_name:string,latitude:double,longitude:double>",
+  "Number_of_rows" : 163554,
+  "Number_of_stripes" : 1,
+  "Stripes" : [ {
+    "Stripe" : 0,
+    "Row_count" : 163554,
+    "columns" : [ {
+      "column" : "store_id",
+      "nulls" : 0,
+      "value_count" : 163554,
+      "min" : "823269",
+      "max" : "986822"
+    }, {
+      "column" : "store_name",
+      "nulls" : 0,
+      "value_count" : 163554,
+      "min" : null,
+      "max" : null
+    }, {
+      "column" : "latitude",
+      "nulls" : 0,
+      "value_count" : 163554,
+      "min" : "-47.526959",
+      "max" : "73.470142"
+    }, {
+      "column" : "longitude",
+      "nulls" : 0,
+      "value_count" : 163554,
+      "min" : "17.095456",
+      "max" : "138.092932"
+    } ]
+  } ]
+}, {
+  "File" : "part-00003-9aa8ec4a-3763-4967-be92-2507c58a6b83-c000.snappy.orc",
+  "Compression" : "SNAPPY",
+  "Column_types" : "struct<store_id:int,store_name:string,latitude:double,longitude:double>",
+  "Number_of_rows" : 163556,
+  "Number_of_stripes" : 1,
+  "Stripes" : [ {
+    "Stripe" : 0,
+    "Row_count" : 163556,
+    "columns" : [ {
+      "column" : "store_id",
+      "nulls" : 0,
+      "value_count" : 163556,
+      "min" : "496164",
+      "max" : "659719"
+    }, {
+      "column" : "store_name",
+      "nulls" : 0,
+      "value_count" : 163556,
+      "min" : null,
+      "max" : null
+    }, {
+      "column" : "latitude",
+      "nulls" : 0,
+      "value_count" : 163556,
+      "min" : "-47.528241",
+      "max" : "73.471473"
+    }, {
+      "column" : "longitude",
+      "nulls" : 0,
+      "value_count" : 163556,
+      "min" : "17.095074",
+      "max" : "138.093138"
+    } ]
+  } ]
+}, {
+  "File" : "part-00001-9aa8ec4a-3763-4967-be92-2507c58a6b83-c000.snappy.orc",
+  "Compression" : "SNAPPY",
+  "Column_types" : "struct<store_id:int,store_name:string,latitude:double,longitude:double>",
+  "Number_of_rows" : 163573,
+  "Number_of_stripes" : 1,
+  "Stripes" : [ {
+    "Stripe" : 0,
+    "Row_count" : 163573,
+    "columns" : [ {
+      "column" : "store_id",
+      "nulls" : 0,
+      "value_count" : 163573,
+      "min" : "169040",
+      "max" : "332612"
+    }, {
+      "column" : "store_name",
+      "nulls" : 0,
+      "value_count" : 163573,
+      "min" : null,
+      "max" : null
+    }, {
+      "column" : "latitude",
+      "nulls" : 0,
+      "value_count" : 163573,
+      "min" : "-47.528041",
+      "max" : "73.471537"
+    }, {
+      "column" : "longitude",
+      "nulls" : 0,
+      "value_count" : 163573,
+      "min" : "17.094716",
+      "max" : "138.09426"
+    } ]
+  } ]
+} ]

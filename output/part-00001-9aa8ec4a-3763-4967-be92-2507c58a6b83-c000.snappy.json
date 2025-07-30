@@ -1,0 +1,36 @@
+{
+  "File" : "part-00001-9aa8ec4a-3763-4967-be92-2507c58a6b83-c000.snappy.orc",
+  "Compression" : "SNAPPY",
+  "Column_types" : "struct<store_id:int,store_name:string,latitude:double,longitude:double>",
+  "Number_of_rows" : 163573,
+  "Number_of_stripes" : 1,
+  "Stripes" : [ {
+    "Stripe" : 0,
+    "Row_count" : 163573,
+    "columns" : [ {
+      "column" : "store_id",
+      "nulls" : 0,
+      "value_count" : 163573,
+      "min" : "169040",
+      "max" : "332612"
+    }, {
+      "column" : "store_name",
+      "nulls" : 0,
+      "value_count" : 163573,
+      "min" : null,
+      "max" : null
+    }, {
+      "column" : "latitude",
+      "nulls" : 0,
+      "value_count" : 163573,
+      "min" : "-47.528041",
+      "max" : "73.471537"
+    }, {
+      "column" : "longitude",
+      "nulls" : 0,
+      "value_count" : 163573,
+      "min" : "17.094716",
+      "max" : "138.09426"
+    } ]
+  } ]
+}

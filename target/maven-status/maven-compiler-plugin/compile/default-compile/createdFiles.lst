@@ -1,0 +1,4 @@
+org/example/OrcMetadataExtractor$ColumnInfo.class
+org/example/OrcMetadataExtractor$StripeInfo.class
+org/example/OrcMetadataExtractor.class
+org/example/OrcMetadataExtractor$FileInfo.class
